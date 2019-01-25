@@ -1,4 +1,9 @@
 # IntelliJ Project Files
 **/*.iml
 **/.idea/
+
+# VS Code Stuff
+**/.vscode/
+
+# Compiled stuff
 **/out/
